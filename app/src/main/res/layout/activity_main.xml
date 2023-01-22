@@ -11,7 +11,7 @@
         android:id="@+id/tvsec"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:text="sec text"
+        android:text=""
         android:textSize="40sp"
         android:textAlignment="viewEnd"
         android:padding="10dp"
@@ -23,7 +23,7 @@
         android:id="@+id/tvmain"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:text="Enter Text"
+        android:text=""
         android:textSize="50sp"
         android:textAlignment="viewEnd"
         android:padding="10dp"
@@ -60,23 +60,18 @@
                         android:text="sin"
                         android:textAllCaps="false"
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
-
                     </Button>
                     <Button
                         android:id="@+id/blog"
                         android:text="log"
                         android:textAllCaps="false"
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -86,10 +81,8 @@
                         android:text="ln"
                         android:textAllCaps="false"
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -98,10 +91,8 @@
                         android:id="@+id/bb1"
                         android:text="("
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -110,10 +101,8 @@
                         android:id="@+id/bb2"
                         android:text=")"
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -135,10 +124,8 @@
                         android:text="cos"
                         android:textAllCaps="false"
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -149,7 +136,6 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-
                         android:text="AC"
                         android:textAllCaps="false"
                         android:textColor="#ffa500"
@@ -161,10 +147,8 @@
                         android:id="@+id/bc"
                         android:text="C"
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -174,10 +158,8 @@
                         android:text="1/x"
                         android:textAllCaps="false"
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -186,10 +168,8 @@
                         android:id="@+id/bdiv"
                         android:text="÷"
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -211,32 +191,26 @@
                         android:id="@+id/btan"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-
                         android:layout_weight="1"
                         android:text="tan"
                         android:textAllCaps="false"
                         android:textColor="#ffa500"
-                        android:textSize="20sp">
+                        android:textSize="20sp"/>
                     <Button
                         android:id="@+id/b7"
                         android:text="7"
                         android:textSize="20sp"
-
                         android:textColor="#fff"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent">
+                        android:layout_height="match_parent"/>
 
-                    </Button>
                     <Button
                         android:id="@+id/b8"
                         android:text="8"
                         android:textSize="20sp"
-
                         android:textColor="#fff"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -245,10 +219,8 @@
                         android:id="@+id/b9"
                         android:text="9"
                         android:textSize="20sp"
-
                         android:textColor="#fff"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -257,10 +229,8 @@
                         android:id="@+id/bmul"
                         android:text="×"
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -279,24 +249,20 @@
                     android:layout_height="match_parent">
 
                     <Button
-                        android:id="@+id/b7"
+                        android:id="@+id/bfact"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-
                         android:layout_weight="1"
                         android:text="x!"
-
                         android:textColor="#ffa500"
-                        android:textSize="20sp">
+                        android:textSize="20sp"/>
 
                     <Button
                         android:id="@+id/b4"
                         android:text="4"
                         android:textSize="20sp"
-
                         android:textColor="#fff"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -305,10 +271,8 @@
                         android:id="@+id/b5"
                         android:text="5"
                         android:textSize="20sp"
-
                         android:textColor="#fff"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -317,10 +281,8 @@
                         android:id="@+id/b6"
                         android:text="6"
                         android:textSize="20sp"
-
                         android:textColor="#fff"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -329,10 +291,8 @@
                         android:id="@+id/bmin"
                         android:text="-"
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -351,35 +311,30 @@
                     android:layout_height="match_parent">
 
                     <Button
-                        android:id="@+id/b1"
+                        android:id="@+id/bsqrt"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-
                         android:layout_weight="1"
                         android:text="√"
-
                         android:textColor="#ffa500"
-                        android:textSize="20sp">
+                        android:textSize="20sp"/>
                     <Button
                         android:id="@+id/b1"
                         android:text="1"
                         android:textSize="20sp"
-
                         android:textColor="#fff"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent">
+                        android:layout_height="match_parent"
+                        tools:ignore="HardcodedText">
 
                     </Button>
                     <Button
                         android:id="@+id/b2"
                         android:text="2"
                         android:textSize="20sp"
-
                         android:textColor="#fff"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -388,10 +343,8 @@
                         android:id="@+id/b3"
                         android:text="3"
                         android:textSize="20sp"
-
                         android:textColor="#fff"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -400,10 +353,8 @@
                         android:id="@+id/bplus"
                         android:text="+"
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -434,10 +385,8 @@
                         android:id="@+id/bpi"
                         android:text="π"
                         android:textSize="20sp"
-
                         android:textColor="#fff"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -446,10 +395,8 @@
                         android:id="@+id/b0"
                         android:text="0"
                         android:textSize="20sp"
-
                         android:textColor="#fff"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -458,10 +405,8 @@
                         android:id="@+id/bdot"
                         android:text="."
                         android:textSize="20sp"
-
                         android:textColor="#fff"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
@@ -470,10 +415,8 @@
                         android:id="@+id/bequal"
                         android:text="="
                         android:textSize="20sp"
-
                         android:textColor="#ffa500"
                         android:layout_weight="1"
-
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
